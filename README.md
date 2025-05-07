@@ -1,2 +1,3 @@
 # 2ano2sem
-Tudo o que tenho das cadeiras que realizei neste ano
+Material guardado e desenvolvido no meu 2 ano 2 semestre
+
